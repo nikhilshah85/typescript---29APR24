@@ -1,0 +1,20 @@
+Development Env
+
+1. Any OS
+2. NodeJS - https://nodejs.org/en 
+	download and install
+	once installation is done, open command prompt/terminal
+		type node -v (to check installation and version no)
+
+
+3. Typescript Compiler
+	open command prompt/terminal
+	npm install tsc -g 
+	tsc -v
+
+4. (optional - you can also use Notepad, notepad++ instead)
+	IDE - integrated development environment
+		Visual Studio Code (this is free, can be downloaded on any OS)
+
+----
+	or else you can write, test your code even online

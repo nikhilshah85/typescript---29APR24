@@ -1,0 +1,24 @@
+			Task : Create a new datatype 
+	Employee
+		Properties
+			empNo, 
+			empName,
+			empDesignation, 
+			empSalary, 
+ 		        empIsActive,
+			empAvailableLeaves = 20 (20 is the available leave for every emp obj)
+			empSkills - emp can have multiple skills (eg. Swimming, Sports, Programming, Client 								Mangment etc.)
+
+		Below Functions
+			applyLeaves(pass the number of days)
+				a. user cannot enter value less than 1
+				b. Based on Designation 
+					Manager can apply max 5 days of leave
+					Developer can apply max 8 days of leave
+					Sales can apply max 2 days of leave
+				if conditions are met, deduct empAvailableLeaves and return
+						balance leave
+				else return appropriate message
+			
+			show EmployeeSkills - which will print all the skills for emp obj
+	create the object of this class in first_UDT and test the functionality

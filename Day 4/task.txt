@@ -1,0 +1,30 @@
+1. create a new folder day 4
+2. open the folder in VS code
+3. add a new file Accounts.ts
+  add properties and methods in a class Account
+4. add a file savings.ts
+	add a class, Savings and extend it from Account
+	
+5. create object of Savings and you will see it has inherited all the properties and methods
+		from accounts
+
+------------
+
+6. add a new file, current.ts
+
+	add a new class, Current extend it from 
+		Accounts
+		current to have an extra property
+		isOverdraftEnabled 
+
+create  new object of current and test it
+
+
+
+add the withdraw method again in Savings
+	see what happens ?
+
+
+
+
+

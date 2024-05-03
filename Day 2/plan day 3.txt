@@ -1,0 +1,14 @@
+					Day 3
+
+1. Create custom data type (using classes)
+2. add methods, function, constructors, 
+	use other keywords like
+		let myname:string = "Nikhil"
+		const pie =3.14;
+
+	more enums 
+
+3. Logic writing, calculate CTC (30 lines of logical code)
+		if conditions, switch cases, loops
+
+

@@ -1,0 +1,82 @@
+			Typescript is Object Oriented Programming / scripting
+
+		OOPS - allows us to create custom datatypes
+
+
+		Object Oriented Programming
+		What is an object ?
+		
+		Object - For a developer - everything is an object
+
+		Object - is a real world entity 
+			every object has below functionalities
+			a. properties - which describes them 
+			b. functions - actions they performs / behaviour / reaction
+			c. constructor - this is a function, which is auto executed
+					when the object is born (and never after that)
+
+-------------------------------------------------------------------------------------------
+			BankAccount
+
+	Properties
+		1. accNo, accName ,accType ,accBalance,accIsActive,accBranch
+	Functions 
+		2. withdraw, deposit, transfer, bill pay, request checkbook
+
+		banks does have internal functions/procedures/analysis
+			which studies your, spending habbits
+	constructor
+		3. a new accNo gets generated	(system generated value)
+	
+----------
+		all of this can be converted into code as a software
+		class - is used for the same 
+			class is a Blueprint to create an object
+				and then u create multiple objects from that class
+
+		It is also termed as UDDT - user defined data type
+
+
+
+----------
+	For a project
+		Project is made up of 100's of files
+		this files are nothing but classes
+
+		you create a class in a separate file and then we import them 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+
+
+
+
+
+
+
+
+
+

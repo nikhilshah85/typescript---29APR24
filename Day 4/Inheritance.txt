@@ -1,0 +1,17 @@
+Inheritance : this is reuse the code already written
+		
+
+	BankingSystem
+		has different types of accounts, 			
+			Savings
+			Current
+			PF
+
+			Loan (this is managed by different teams)
+
+	all the accounts will have lots of funcaniality in common like
+		accNo, accName, accType, accBalance,withdraw,deposit,transfer etc..
+		we should not write all this code 4 times !!
+
+		instead, we can use inheritance, which will be written in a common class 
+		and other classes will reuse it (extend it / inherit it)

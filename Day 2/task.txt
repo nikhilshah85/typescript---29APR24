@@ -1,0 +1,11 @@
+Create a new File in folder 2 - employeeDetails.ts
+
+	we need to store below values for 5 employees
+		empNo (alpha numeric eg. 101, 102)
+		empName 
+		empDesignation (HR,Manager,Developer)
+		empSalary (numeric)
+		empIsPerment (bool)
+
+
+	create a program to store 5 emp details in 1 single variable

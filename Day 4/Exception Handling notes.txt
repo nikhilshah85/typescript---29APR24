@@ -1,0 +1,18 @@
+			Exception Handling
+
+	--This is to handle the errors at runtime
+	--End users are not technical people, they tend to interact with application
+		in a non-technical way (Human way)
+	--If errors will happen at runtime, application will crash
+		which can result in 
+			Loss of data, which can create a disaster
+			May not see the user again
+---------------------------------------------------------------------
+		Thus we use Exception Handling
+	1. This is a 2 part process
+		a. in a class, we use Throw New Exception('Error message');
+
+		b. in the execution, where user interaction will be there
+		this is done useing a standard block across industry and frameworks(.net,java,python..)
+			try..catch..finally
+				finally is optional

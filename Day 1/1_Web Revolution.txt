@@ -1,0 +1,68 @@
+Industry coined a term - Web Revolution - 2008-2009 
+
+
+-----
+	every developer today needs to understand Web Revolution 
+
+	1. Average user has started using internet in 2005
+	2. During those days they used internet for 	
+		surfing, email, booking, project, games, chats
+	3. They used internet mostly at Home, Cyber Cafe, office
+	4. Connection was : LAN, Broadband, dial up 
+	5. Device : Desktop, laptop 
+	
+-----------------------------------------------------------------------------
+		however around 2009-2010 : world had changed tremendously
+
+	1.People using internet in 2010 and onwards are different 
+	   everyone uses internet
+	2. People use internet for : Everything
+	3. People use internet at : Everywhere 
+	4. Connection : Wifi + 5G+ everywhere
+	5. Devise : Desktop, laptop, Mobile, Ipad, tables, Watch, refrigerator,
+			Car, washing machine, TV 
+
+		This is all web app
+	6. Habits :  When u at vacation, they want to check in - use location
+		     Photos, zoom in zoom out
+		     Videos, flip the phone (users expect the app also will respond)
+		     History and cache - to speed up the devise
+	7. Cross platform - Android, IOS, Blackberry ,Symbian
+		send whats app to anyone 
+	
+	-------------------------------------------------------------------------------
+		Thus as a developer you need to make sure you are able to cop-up with above requirement (responsiveness)
+
+	all of this is on client devise - on clients 1 hand (thumb)
+
+		all of this is on client devise - which can be managed using client side scripting
+		There is only 1 language for this - JavaScript (Web Standard, W3C)
+
+		But JavaScript had major, major, major flaws, drawback, missing features
+			which was not possible to use
+
+			1. JS did not had data types
+			2. it was not Object Oriented (major feature for development)
+			3. Not compiled, no error checking, no debugging, etc...
+
+		Thus a new improved JavaScript was needed 
+		ECMA - European Computer Manufacturing Association (from European countries)
+			They added above features and more to JavaScript - fantastic (2008-2009) - ES6
+			This was the most difficult thing to use for programmer
+
+		Thus Andres Heilberg - simplified it - by writing compilers and new language over it
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+
+

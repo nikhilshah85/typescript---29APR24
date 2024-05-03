@@ -1,0 +1,103 @@
+		Interface : (also called as contract)
+
+		Always is between 2 parties
+
+
+	At the enterprise application level, there are different teams 
+	which works on different modules
+
+	they use the same class for extending the functionality
+		eg. Loan related development will be processed by 1 team
+		    Transaction managed by different team
+		    Investment management 
+		    Insurance
+
+		all this teams will create their own classes
+		they may not even know each other
+		
+	but we need to make sure they follow the guidance provided by us
+	and it is a mandate
+		we have quality check tools which will catch this mandate
+
+----------------------------------
+	so we will give them the contract (paper based outside the software)
+	we give Interface inside the software (if you do not follow this app will not compile)
+	
+
+
+	----------------
+	we create only declaration of properties, methods in an interface
+		definition will be done by class creator
+
+	we will create an interface which will have properties and 
+		method declatation
+
+
+	inheritance
+	interface
+		are both different
+		inheritance is from a class - class has method definition and declaration
+		interface is from a Interface - interface has only declaration
+
+		classes are inherited     - using extends keyword
+			class Savings extends Accounts
+			{
+			}
+		interface are implemented - using implements keyword
+			class Current implements IAccount
+			{
+			}
+
+
+		class is a BluePrint
+		interface is a Contract
+----------------------------------------------------------------------------------------------------
+			create a interface for IVehicle
+				every vehicle needs below structure
+			1. no of seats
+			2. no of doors
+			3. color
+			4. company
+
+			methods
+			start
+			stop
+
+		have 2 classes, Car and Truck
+			both will implement the intreface
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+

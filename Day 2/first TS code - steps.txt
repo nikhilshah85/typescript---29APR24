@@ -1,0 +1,18 @@
+1.You write you code in a file - and save the file as with .ts extention
+		eg. demo1.ts
+
+	we use Typescript language in the file 
+	(create classes, methods, functions, constructors, Enum, etc....)
+
+	File is executed on web browsers - but then do not understand Typescript
+
+
+2. Thus, we need to convert this file into JavaScript (useing tsc typescript    compiler)
+	This will convert .ts file in a separate .js file
+
+3. and then execute the file
+	javascript file can executed on browser with a webpage, or nodejs
+
+-----------------------------------
+	Please enter vehicle type : 2 wheeler, 4 wheeler, 6 wheeler		
+ 

@@ -1,0 +1,6 @@
+1. Inheritance in Typescript (very useful and important) - this will save 100's of lines of 	code
+2. Exception Handling 
+3. Interface (this are contracts)
+
+--------------------------------------------------------------
+		
