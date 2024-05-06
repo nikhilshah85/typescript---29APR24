@@ -1,0 +1,68 @@
+1. if we have to inherit all the properties and methods/function from another class
+	Accounts class - has lots of properties and methods
+
+and
+
+	savings class needs to inherit 
+
+	how can we do it
+
+
+	class Savings extends Accounts
+	{
+
+	}
+
+	how to inherit a class 
+---------------------------
+	similarly how do we put an interface on to a class
+		class Savings __________ IAccounts
+		{
+
+		}
+----------------------------------------
+
+		Exception Handling
+
+	1. in the class methods we use throw new Error('');
+		when ever you feel user will do a mistake due to which my application can 			crash
+	2. when trying to use the method, you use
+		try
+		{
+
+		}
+		catch(error)
+		{
+
+		}
+		finally
+		{
+			//this is neutral which will always execute in the end					console.log('Thank you for banking');
+		}
+
+----------------------
+ 	We have created classes and properies, for data we have hard coded the data
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

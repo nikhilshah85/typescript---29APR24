@@ -1,0 +1,83 @@
+Consume Rest API in typescript / make a call to restapi service
+
+we do this using a standard API provided by ECMA and W3C - fetch()
+
+	fetch is in built in every browser
+	fetch is in built in every mobile app
+	fetch is inbuilt in every devise (watch, IOT, washing machine etc..)
+
+	fetch returns a promise - promise here means, it will either show you the data
+			or show you the error message
+
+	fetch works in a async way - use does not have to wait for all the data to come
+		data can come in small chunks (like streaming,on youtube/Netflix you do not wait for all the data to come in)
+
+	fetch makes a calls in try..catch style
+		fetch(url)
+		.then(..) - which data format your incoming data is (json, xml, text,buffer)
+		.then(..) - success data comes here
+		.catch(..) - error details
+
+
+--------------------------------------------
+		This is a loosely typed call - although successful, but it is very slow on client devise
+
+instead, fetch supports calling a strongly typed data, which is more smoother and faster
+
+fetch returns a promise and you need to tell which data is expected along with datatype
+
+you can create a contract, and contract can be used in a promise
+
+we will create an interface, which will have properties of all the data which will come
+and we read that as incoming data
+
+----------------
+	fetch supports all the REST API calls
+	GET (this is default)
+	POST (use to send the data to server, create a new resource)
+	PUT (to update the data on the server)
+	DELETE(to delete the resource on the data)
+
+	for other methods
+
+	fetch(url).then.......
+
+
+	fetch(url,{method:'POST'})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
