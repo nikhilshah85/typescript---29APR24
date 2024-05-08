@@ -1,0 +1,22 @@
+{
+  "name": "firstpackage",
+  "version": "1.0.1",
+  "description": "This is my very first module createing useing typescript, once I become good at typescript, I am definately going to create more stronger and useful modules, as I love programming and scripting, this modules will allow user to do ........",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "first",
+    "test",
+    "custom",
+    "package",
+    "module",
+    "nikhil",
+    "training"
+  ],
+  "author": "Nikhil Shah",
+  "license": "ISC"
+}

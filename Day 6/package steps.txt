@@ -1,0 +1,99 @@
+Client centeric frameworks 
+		Angular
+		React
+		Backbone
+		testing frameworks
+
+	They all run on Node
+---------------
+	Node has a package system
+
+	Day
+	1. Develop package/module
+	2. publish it to npm
+	3. allow downloading the same
+
+		this is 8-10 step process
+
+	---------------------------------------------------------------------------
+	step 1 - create a new folder in day 6
+		customModules
+	step 2 - open the folder in vs code
+	step 3 - fire the below command to create the package configuration 
+			package.json will be created with this command
+		npm init 
+			fill up the information as per screen
+	step 4 - initial typescript compiler config
+			npx tsc --init
+	step 5 - create a new file index.ts
+			write your code
+			you can have multiples files, with inheritance
+			you can have interfaces, inheritance
+			methods, which can make REST api calls to your internal rest service
+	step 6 - make the change in tsconfig.json
+		"outDir": "./dist",
+
+		the .td files will get converted into .js and we need to tell the location of 		that file
+	step 7 - in package.json, include the build script by tsc
+		"scripts": {
+   			 "build": "tsc",
+  			  "test": "echo \"Error: no test specified\" && exit 1"
+ 		 },
+
+	step 8 - ready for publishing		
+		 "main": "dist/index.js",
+		 "types": "dist/index.d.ts",
+
+time to push/publish
+	step 9 - npm login
+		create a new account and login
+	step 10 - npm run build
+	step 11 - npm publish
+
+
+		others can then download this package with 
+
+		npm install test_pkg_nn
+		npm i test_pkg_nn
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+			
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
